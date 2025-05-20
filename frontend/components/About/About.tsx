@@ -16,6 +16,7 @@ const LogoMarquee = () => {
       <div className="max-w-7xl mx-auto text-center">
         <h2 className="text-4xl md:text-5xl font-extrabold text-white mb-6">
          
+         
           <span className="relative inline-block text-[#8169ff]">
             Power
             <svg
