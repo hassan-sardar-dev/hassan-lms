@@ -1,4 +1,4 @@
-const bcrypt = require('bcrypt');
+import bcrypt from 'bcryptjs'
 import UserRegisterSchema from '@/models/UserRegister';
 
 const UserRegisterController = {
